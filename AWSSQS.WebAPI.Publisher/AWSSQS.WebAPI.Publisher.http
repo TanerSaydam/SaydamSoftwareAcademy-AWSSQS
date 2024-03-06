@@ -1,0 +1,6 @@
+@AWSSQS.WebAPI.Publisher_HostAddress = http://localhost:5054
+
+GET {{AWSSQS.WebAPI.Publisher_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
